@@ -12,14 +12,14 @@ This is a Java-based academic project was developed as part of the course **Soft
 - **Emergency cases** receive priority over regular cases.
 - Once a case is completed, it is removed from the waiting list.
 - The simulation records **treatment start and end times**, and returns a **log of executed cases** as formatted strings.
-Format:
+Format:  
 ”$ownerName with $animalName was treated by $doctorName, $treatment, started at: $startingTime ended
-at: $finishingTime”
-Example:
-Owner2 with animal2 was treated by Doctor1, emergency, started at: 0 ended at: 60
-Owner5 with animal5 was treated by Doctor2, emergency, started at: 0 ended at: 60
-Owner3 with animal3 was treated by Doctor2, vaccination, started at: 61 ended at: 76
-Owner1 with animal1 was treated by Doctor1, diagnostics, started at: 61 ended at: 106
+at: $finishingTime”  
+Example:  
+Owner2 with animal2 was treated by Doctor1, emergency, started at: 0 ended at: 60  
+Owner5 with animal5 was treated by Doctor2, emergency, started at: 0 ended at: 60  
+Owner3 with animal3 was treated by Doctor2, vaccination, started at: 61 ended at: 76  
+Owner1 with animal1 was treated by Doctor1, diagnostics, started at: 61 ended at: 106  
 
 ---
 
