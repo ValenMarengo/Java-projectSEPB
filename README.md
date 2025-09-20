@@ -11,7 +11,7 @@ This is a Java-based academic project was developed as part of the course **Soft
 - Doctors are assisted by **assistants** during treatment. If there are not enough assistants **(at least one assistant more than the number of doctors)** treatment times are **doubled**.
 - **Emergency cases** receive priority over regular cases.
 - Once a case is completed, it is removed from the waiting list.
-- The simulation records **treatment start and end times**, and returns a **log of executed cases** as formatted strings.
+- The simulation records **treatment start and end times**, and returns a **log of executed cases** as formatted strings.  
 Format:  
 ”$ownerName with $animalName was treated by $doctorName, $treatment, started at: $startingTime ended
 at: $finishingTime”  
